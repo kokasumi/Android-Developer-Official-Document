@@ -1,4 +1,4 @@
-## 1.2 Android平台架构
+## Android平台架构
 
 > 来源：[ Platform Architecture][platform-architecture]
 >
