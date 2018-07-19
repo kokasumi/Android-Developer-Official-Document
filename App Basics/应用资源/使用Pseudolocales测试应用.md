@@ -2,7 +2,7 @@
 
 > 来源：[Test your app with pseudolocales](https://developer.android.google.cn/guide/topics/resources/pseudolocales)
 >
-> 翻译参与者：[Mnilg](https://github.com/mnilg/)
+> 整理者：[Mnilg](https://github.com/mnilg/)
 
 Pseudolocale是一种模拟翻译应用时导致UI，布局以及其他翻译相关问题的语言环境。Pseudolocale是即时翻译的并且自动翻译成可读的本地化英语消息，能够帮助在开发阶段调试本地化造成的UI文本以及布局问题。Android平台提供了2种Pseudolocale分别代表Left-to-right(LTR)和Right-to-left(RTL)语言：
 

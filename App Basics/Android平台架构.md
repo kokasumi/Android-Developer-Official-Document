@@ -2,7 +2,7 @@
 
 > 来源：[ Platform Architecture][platform-architecture]
 >
-> 翻译参与者：[Mnilg](https://github.com/mnilg/)
+> 整理者：[Mnilg](https://github.com/mnilg/)
 
 Android是一个基于Linux的开源软件栈，下图展示了Android的平台架构：
 
