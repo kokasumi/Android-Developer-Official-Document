@@ -5,4 +5,6 @@
 - App Basics
   - [应用基本原理](./App-Basics/应用基本原理.md)
   - [Android平台架构](./App-Basics/Android平台架构.md)
+  - 应用资源
+    - [应用资源概述](./App-Basics/应用资源/应用资源概述.md)
 
